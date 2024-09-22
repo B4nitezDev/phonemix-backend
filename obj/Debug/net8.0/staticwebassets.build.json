@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "AAXVg+IRBfba8VNQnEMagodpAq23r4SLfBVep8bI09I=",
+  "Source": "phonemix-backend",
+  "BasePath": "_content/phonemix-backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
